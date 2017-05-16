@@ -16,7 +16,7 @@
 title: Mike Duvall Dot Pizza!
 email: admin@mikeduvall.pizza
 description: > # this means to ignore newlines until "baseurl:"
-  This is the your home for all the pizza Mike Duvall eats.
+  This is your home for all the pizza Mike Duvall eats.
   Because why not?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mikeduvall.pizza" # the base hostname & protocol for your site, e.g. http://example.com
